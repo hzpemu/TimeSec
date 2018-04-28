@@ -1,0 +1,3 @@
+shutdown.exe -l -f
+
+
